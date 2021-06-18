@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.1, 2021-05-26T16:28:55. -->
+<!-- Written by QtCreator 4.11.1, 2021-06-18T10:26:11. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -287,8 +287,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:J:/PSiO/Hubertos/projekt/projekt.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">J:/PSiO/Hubertos/projekt/projekt.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">projekt2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/Warcaby/Warcaby/projekt/projekt.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Warcaby/Warcaby/projekt/projekt.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
