@@ -8,7 +8,7 @@ SOURCES += \
         board.cpp \
         main.cpp
 
-LIBS += -L"N:/SFML-2.5.1/lib"
+LIBS += -L"path"
 
 CONFIG(debug, debug|release){
     LIBS += -lsfml-audio-d -lsfml-graphics-d -lsfml-network-d -lsfml-system-d -lsfml-window-d
